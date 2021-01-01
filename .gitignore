@@ -6,3 +6,15 @@ Game of Life/DataGenerator/GameOfLifeDataGenerator/GameOfLifeDataGenerator/obj/
 Game of Life/DataGenerator/GameOfLifeDataGenerator/.vs/
 
 *.exe
+
+Game of Life/GameOfLifeDataGenerator/.vs/
+
+Game of Life/GameOfLifeDataGenerator/GameOfLifeDataGenerator/bin/
+
+Game of Life/GameOfLifeDataGenerator/GameOfLifeDataGenerator/obj/
+
+Game of Life/GameOfLifeSimulator/.vs/
+
+Game of Life/GameOfLifeSimulator/GameOfLifeSimulator/bin/
+
+Game of Life/GameOfLifeSimulator/GameOfLifeSimulator/obj/

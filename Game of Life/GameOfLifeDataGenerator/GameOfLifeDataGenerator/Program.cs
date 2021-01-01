@@ -129,8 +129,11 @@ namespace GameOfLifeDataGenerator
 
             Console.ReadLine();
         }
-        static void Main(string[] args) {
+        static void Main(string[] args)
+        {
+            GenerateCellLookupData();
 
+            Console.ReadLine();
         }
     }
 }
